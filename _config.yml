@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://kaspiyneft.github.io"
-title: KASPIY" # site's title
-description: "Группа компании" # used by search engines
+title: KASPY" # site's title
+description: "Группа компаний" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: KASPY группа компании # blog's title
+  title: KASPY группа компаний # blog's title
   avatar: assets/img/ava.svg
   favicon: assets/ico.png
   gravatar: # Email MD5 hash
