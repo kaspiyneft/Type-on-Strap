@@ -10,7 +10,7 @@ theme_settings:
   # Meta
   title: KASPY группа компании # blog's title
   avatar: assets/img/red.PNG
-  favicon: assets/favicon.ico
+  favicon: assets/img/avatar.PNG
   gravatar: # Email MD5 hash
 
   # Header and footer text
