@@ -9,7 +9,7 @@ description: "Группа компаний" # used by search engines
 theme_settings:
   # Meta
   title: KASPY группа компаний # blog's title
-  avatar: assets/img/ava.svg
+  avatar: assets/ico.png
   favicon: assets/ico.png
   gravatar: # Email MD5 hash
 
