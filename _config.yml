@@ -8,7 +8,7 @@ description: "Группа компании" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: KASPIY группа компании # blog's title
+  title: KASPY группа компании # blog's title
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
