@@ -1,6 +1,6 @@
 ---
 layout: page
-title: О КОМПАНИИ
+title: О Компании
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]
