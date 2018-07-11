@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ФОТОГАЛЕРЕЯ
+title: ГАЛЕРЕЯ
 subtitle:
 permalink: /gallery/
 gallery_path: "assets/img/gallery"
