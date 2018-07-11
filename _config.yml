@@ -16,7 +16,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <h1> KASPY </h1>
-     <h4> группа компаний </h4>
+     <h3> группа компаний </h3>
   header_text_feature_image: assets/img/pexel/architecture-blur-building-257636.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
