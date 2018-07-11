@@ -2,7 +2,7 @@
 layout: page
 title: О КОМПАНИИ
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/pexel/action-artisan-burnt-1145434.jpg"
 tags: [About, Test]
 ---
 
