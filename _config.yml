@@ -17,7 +17,7 @@ theme_settings:
   header_text: > #two or three lines to describe your site
      <h1> KASPY </h1>
      <p> ГРУППА КОМПАНИЙ </p>
-  header_text_feature_image: assets/img/pexel/architecture-building-empty-236705.jpg
+  header_text_feature_image: assets/img/pexel/factory-industry-lights-236722.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
