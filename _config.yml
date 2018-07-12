@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://kaspiyneft.github.io"
-title: KASPY" # site's title
+title: KASPY # site's title
 description: "Группа компаний" # used by search engines
 
 
