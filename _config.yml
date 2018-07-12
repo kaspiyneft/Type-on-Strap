@@ -19,20 +19,20 @@ theme_settings:
      <p> лидер отечественного рынка качественных товаров по объемам выпуска продукции, технологиям, дистрибуции. </p>
   header_text_feature_image: assets/img/pexel/architecture-blur-building-257636.jpg
   footer_text: >
-   Powered by <a href="https://vk.com/id212041065/">Imangali Temirkhan</a>
+   © <a href="https://vk.com/id212041065/">Imangali Temirkhan</a> 2018
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: temirkhan.imangali@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: https://www.facebook.com/profile.php?id=100009475494278&ref=bookmarks
   flickr:
   gitlab:
   github: "sylhare"
   google_plus:
-  instagram:
+  instagram: https://www.instagram.com/nurzhan_mr/
   keybase:
   linkedin:  # Full URL
   pinterest:
@@ -70,7 +70,7 @@ theme_settings:
       enabled: true
     tags:
       icon: "tags"
-      enabled: true
+      enabled: false
   
   # Localization strings
   str_follow_on: "Follow on"
