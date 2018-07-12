@@ -4,7 +4,7 @@ title: ГАЛЕРЕЯ
 subtitle:
 permalink: /gallery/
 gallery_path: "assets/img/gallery"
-tags: [Gallery, Photo]
+
 ---
 
 
