@@ -33,8 +33,8 @@ feature-img: "assets/img/pexel/architecture-building-business-236698.jpg"
 
 <img src="/assets/img/map.PNG"  alt="photo" width="750px"/>
 
-![](cc/assets/img/map.PNG "Photo")
+# ![](cc/assets/img/map.PNG "Photo")
 
-![Photo](cc/assets/img/green.PNG "Photo")
+# ![Photo](cc/assets/img/green.PNG "Photo")
 
-<img src="cc/assets/img/green.PNG" width="100" heigh="100">
+# <img src="cc/assets/img/green.PNG" width="100" heigh="100">
