@@ -33,4 +33,6 @@ feature-img: "assets/img/pexel/architecture-building-business-236698.jpg"
 
 ![](https://github.com/kaspiyneft/kaspiyneft.github.io/blob/master/pages/green.PNG)
 
+![Photo](/assets/img/green.PNG "Photo")
+
 <img src="green.PNG" width="100" heigh="100">
