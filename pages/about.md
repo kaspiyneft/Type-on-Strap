@@ -3,7 +3,7 @@ layout: page
 title: О КОМПАНИИ
 permalink: /about/
 feature-img: "assets/img/pexel/action-artisan-burnt-1145434.jpg"
-tags: [About, Test]
+
 ---
 
 **КАСПИЙ НЕФТЬ КОМПЛЕКС** - Импорт и поставка запасных частей для нефтяного оборудования, завода по производству цемента, заводов по производству асфальта.
