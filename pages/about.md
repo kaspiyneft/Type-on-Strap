@@ -6,6 +6,8 @@ feature-img: "assets/img/pexel/action-artisan-burnt-1145434.jpg"
 
 ---
 ![](/assets/img/red.PNG "photo" 200x)
+
+<img src="/assets/img/red.PNG" alt="photo" width="200px"/>
 ---
 
 **КАСПИЙ НЕФТЬ КОМПЛЕКС** - Импорт и поставка запасных частей для нефтяного оборудования, завода по производству цемента, заводов по производству асфальта.
