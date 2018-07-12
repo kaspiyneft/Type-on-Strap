@@ -22,17 +22,17 @@ theme_settings:
    © <a href="https://vk.com/id212041065/">Imangali Temirkhan</a> 2018
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss: false  # Make sure you created a feed.xml with feed.xml layout
   email_address: temirkhan.imangali@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook: https://www.facebook.com/profile.php?id=100009475494278&ref=bookmarks
+  facebook: profile.php?id=100009475494278&ref=bookmarks
   flickr:
   gitlab:
-  github: "sylhare"
+  github: 
   google_plus:
-  instagram: https://www.instagram.com/nurzhan_mr/
+  instagram: nurzhan_mr/
   keybase:
   linkedin:  # Full URL
   pinterest:
