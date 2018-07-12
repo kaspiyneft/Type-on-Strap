@@ -31,7 +31,8 @@ feature-img: "assets/img/pexel/architecture-building-business-236698.jpg"
 
 Группа компаний **"KASPY"** - имеет два офиса в городе Шымкент, а производственно-складской комплекс компании расположен на окраине Шымкента, всего в 24 км от центра города и в 32 минутах езды.
 
-![](/assets/img/map.PNG "Photo")
+<img src="/assets/img/map.PNG"  alt="photo" width="750px"/>
+*![](/assets/img/map.PNG "Photo")*
 
 *![Photo](/assets/img/green.PNG "Photo")
 
