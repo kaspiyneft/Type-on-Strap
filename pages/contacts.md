@@ -33,4 +33,4 @@ feature-img: "assets/img/pexel/architecture-building-business-236698.jpg"
 
 ![](green.PNG)
 
-❮img src="green.PNG" width="100" heigh="100"❯
+<img src="green.PNG" width="100" heigh="100">
