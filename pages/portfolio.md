@@ -2,7 +2,7 @@
 layout: page
 title : ПРОЕКТЫ
 permalink: /portfolio/
-subtitle: "наши компании" 
+subtitle: "над которыми мы сейчас работаем" 
 feature-img: "assets/img/pexel/architecture-building-empty-236705.jpg"
 ---
 
