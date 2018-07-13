@@ -2,7 +2,6 @@
 layout: page
 title : Компании
 permalink: /portfolio/
-subtitle: "" 
 feature-img: "assets/img/pexel/building-business-ceiling-209251.jpg"
 ---
 
