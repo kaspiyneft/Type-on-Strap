@@ -15,9 +15,9 @@ feature-img: "assets/img/pexel/architecture-building-business-236698.jpg"
 
 Руководитель компании - **Ержан Шалов**
 
-8702-111-07-95
+[8702-111-07-95](tel:+77021110795)
 
-8701-019-99-99
+[8701-019-99-99](tel:+77010199999)
 
 [erzhan070@mail.ru](mailto:erzhan070@mail.ru)
 
@@ -25,9 +25,9 @@ feature-img: "assets/img/pexel/architecture-building-business-236698.jpg"
 
 Менеджер - **Нуртас Расулхан**
 
-8777-919-94-94
+[8777-919-94-94](tel:+77779199494)
 
-8778-497-44-44
+[8778-497-44-44](tel:+77784974444)
 
 [rasulhan_nurtas@mail.ru](mailto:kaspygroup@mail.ru)
 
