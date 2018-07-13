@@ -16,7 +16,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <h1> ТОО "KASPY" </h1>
-     <a> лидер отечественного рынка качественных товаров по объемам выпуска продукции, технологиям, дистрибуции. </a>
+     <h3> лидер отечественного рынка качественных товаров по объемам выпуска продукции, технологиям, дистрибуции. </h3>
   header_text_feature_image: assets/img/pexel/architecture-blur-building-257636.jpg
   footer_text: >	    
    <a href="tel:+77784974444">+7(778)-497-44-44 &ensp; </a>
