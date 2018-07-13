@@ -2,7 +2,7 @@
 layout: post
 title: КАСПИЙ НЕФТЬ КОМПЛЕКС
 feature-img: "assets/img/pexel/building-business-ceiling-209251.jpg"
-img: "assets/img/portfolio/ttt.png"
+img: "assets/img/logos/комплекс.PNG"
 date: September 2009
 ---
 
