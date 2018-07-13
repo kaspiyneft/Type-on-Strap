@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <h4> ТОО "KASPY" </h4>
+     <h2> ТОО "KASPY" </h2>
      <p> лидер отечественного рынка качественных товаров по объемам выпуска продукции, технологиям, дистрибуции. </p>
   header_text_feature_image: assets/img/pexel/architecture-blur-building-257636.jpg
   footer_text: >	    
