@@ -9,10 +9,9 @@ description: "Группа компаний" # used by search engines
 theme_settings:
   # Meta
   title: KASPY группа компаний # blog's title
-  <p align="center"> 87782123430 </p>
   avatar: assets/ico.png
   favicon: assets/ico.png
-  gravatar: # Email MD5 hash
+  gravatar: temirkhan.imangali@gmail.com # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
