@@ -112,8 +112,7 @@ collections:
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
-sass:
-  style: compressed
+
 style: :compressed
 plugins: [jekyll-paginate, jekyll-seo-tag]
 #theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
