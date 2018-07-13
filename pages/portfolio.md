@@ -3,7 +3,7 @@ layout: page
 title : ПРОЕКТЫ
 permalink: /portfolio/
 subtitle: "над которыми мы сейчас работаем" 
-feature-img: "assets/img/pexel/architecture-building-empty-236705.jpg"
+feature-img: "assets/img/pexel/building-business-ceiling-209251.jpg"
 ---
 
 {% include portfolio.html %}
