@@ -2,13 +2,13 @@
 baseurl: ""
 url: "https://kaspiyneft.github.io"
 title: KASPY # site's title
-description: "Группа компаний                                            +7778-497-44-44      +7702-111-07-95" # used by search engines
+description: "Группа компаний" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: KASPY группа компаний # blog's title
+  title: KASPY группа компаний                                +7778-497-44-44      +7702-111-07-95 # blog's title
   avatar: assets/ico.png
   favicon: assets/ico.png
   gravatar: # Email MD5 hash
