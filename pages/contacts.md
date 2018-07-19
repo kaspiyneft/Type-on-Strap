@@ -9,7 +9,7 @@ feature-img: "assets/img/pexel/architecture-building-business-236698.jpg"
 ### Свяжитесь с нами
 ---
 
-Адрес электронной почты [kaspygroup@mail.ru](mailto:kaspygroup@mail.ru)
+Адрес электронной почты [kaspyneft@mail.ru](mailto:kaspyneft@mail.ru)
 
 ---
 
@@ -27,7 +27,7 @@ feature-img: "assets/img/pexel/architecture-building-business-236698.jpg"
 
 [8778-497-44-44](tel:+77784974444)
 
-[rasulhan_nurtas@mail.ru](mailto:kaspygroup@mail.ru)
+[rasulhan_nurtas@mail.ru](mailto:rasulhan_nurtas@mail.ru)
 
 ---
 
