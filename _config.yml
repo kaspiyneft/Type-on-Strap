@@ -112,6 +112,8 @@ collections:
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
+plugins:
+  - jekyll-seo-tag
 sass:
   #sass_dir: _sass
   style: :compressed
