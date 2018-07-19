@@ -17,8 +17,6 @@ feature-img: "assets/img/pexel/architecture-building-business-236698.jpg"
 
 [8702-111-07-95](tel:+77021110795)
 
-[8701-019-99-99](tel:+77010199999)
-
 [erzhan070@mail.ru](mailto:erzhan070@mail.ru)
 
 ---
