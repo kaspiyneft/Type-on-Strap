@@ -16,7 +16,7 @@ feature-img: "assets/img/pexel/action-artisan-burnt-1145434.jpg"
 
 [**КАСПИЙ СЕРВИС**](/portfolio/service) - ремонт оборудования, восстановление деталей наплавкой и сваркой
 
-[**СТАНДАРТ ОЙЛ**](https://kaspiyneft.github.io/portfolio/standardoil) - официальный дистрибьютор **"Total"** и **"L"**
+[**СТАНДАРТ ОЙЛ**](https://kaspiyneft.github.io/portfolio/standardoil) - официальный дистрибьютор **"Total"** и **"Elf"**
 
 ---
 
